@@ -8,7 +8,7 @@ If you are trying to learn python websockets and are willing to contribute.
 Please do send a pull request I will review it and merge it. 💖
 ```
 
-## Setup
+## Setup (Python3.7)
 ```
 > python -m venv python_env
 > .\python_env\Scripts\activate
