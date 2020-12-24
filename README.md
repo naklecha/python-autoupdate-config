@@ -1,5 +1,7 @@
 # python-autoupdate-config
 
+This is a python implementation for an application similar to zookeeper. It keeps your config data in once place and can be changed with a change in code. It is made for distributed systems and can be used in applications like machine learning and web apps. Your latest config data will automatically be available on all your distributed nodes using WebSockets. 
+
 ## Setup
 ```
 > python -m venv python_env
