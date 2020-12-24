@@ -30,14 +30,18 @@ Please do send a pull request I will review it and merge it. 💖
 ## How to Use?
 ```
 Server.py:
-> Starts up your single node server containing your configuration data (not secure look to Task 7 to help me out there)
+> Starts up your single node server containing your configuration data 
+(not secure look to Task 7 to help me out there)
 
 Client.py:
-> Starts a listener that gets the data and then listens to updates made to the config (Needs to be updated to use a thread pool so its not blocking)
+> Starts a listener that gets the data and then listens to updates made to the config 
+(Needs to be updated to use a thread pool so its not blocking)
 
 Client_update.py:
-> This is used to update a config file current implementation only has a CLI interface (If you know flask you could contribute here, or just make a regular html file anything works!)
+> This is used to update a config file current implementation only has a CLI interface 
+(If you know flask you could contribute here, or just make a regular html file anything works!)
 
 Client_remove.py:
-> This is used to remove a config field current implementation only has a CLI interface (If you know flask you could contribute here, or just make a regular html file anything works!)
+> This is used to remove a config field current implementation only has a CLI interface 
+(If you know flask you could contribute here, or just make a regular html file anything works!)
 ```
