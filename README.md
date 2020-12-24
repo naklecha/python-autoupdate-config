@@ -7,10 +7,12 @@
 > pip install -r requiremenets.txt
 ```
 
-## Required Tasks
+## Required Tasks (❌-Not Done, ✔️-Done)
 ```
-1) Better storage type of data
-2) Create a way to have an API key to access the data
-3) Refactoring folder structure 
-4) 
+1) Better storage type of data ❌
+2) Create a way to have an API key to access the data ❌
+3) Refactoring folder structure ❌
+4) Make a UI preferably just html or using Flask (like zookeeper) ❌
+5) Add threading for the client using a thread pool ❌
+6) Make support for hierarchical data ❌
 ```
